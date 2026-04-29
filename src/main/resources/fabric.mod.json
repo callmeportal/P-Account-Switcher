@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "ias",
   "version": "${version}",
-  "name": "In-Game Account Switcher",
+  "name": "P Account Switcher",
   "description": "Allows you to change which account you are signed in to in-game without restarting Minecraft.",
   "authors": [
     "VidTu"
@@ -13,14 +13,15 @@
     "2xsaiko",
     "Elvm",
     "Fhilips613",
-    "WyattMarks"
+    "WyattMarks",
+    "portal"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/in-game-account-switcher",
-    "sources": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher",
-    "issues": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher/issues",
-    "email": "pig@vidtu.ru",
-    "discord": "https://discord.gg/TpU2nEkSPk"
+    "homepage": "https://modrinth.com/mod/p-account-switcher",
+    "sources": "https://github.com/callmeportal/P-Account-Switcher",
+    "issues": "https://github.com/callmeportal/P-Account-Switcher",
+    "email": "callmeportal@gmail.com",
+    "discord": "https://discord.gg/9CbrrzVZ2V"
   },
   "license": "LGPL-3.0-or-later",
   "icon": "ias.png",
@@ -52,10 +53,10 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.modrinth": "https://modrinth.com/mod/in-game-account-switcher",
-        "modmenu.curseforge": "https://curseforge.com/minecraft/mc-mods/in-game-account-switcher",
-        "modmenu.github_releases": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher/releases",
-        "modmenu.discord": "https://discord.gg/TpU2nEkSPk",
+        "modmenu.modrinth": "https://modrinth.com/user/callmeportal",
+        "modmenu.curseforge": "none",
+        "modmenu.github_releases": "https://github.com/callmeportal/P-Account-Switcher",
+        "modmenu.discord": "https://discord.gg/9CbrrzVZ2V",
         "ias.help.crypt": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher/blob/main/docs/CRYPT.md",
         "ias.help.errors": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher/blob/main/docs/ERRORS.md",
         "ias.help.stolen": "https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher/blob/main/docs/STOLEN.md"
